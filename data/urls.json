@@ -17,9 +17,19 @@
     "title": "Featured",
     "urls": [
       {
-        "title": "SPOTIFY",
+        "title": "Spotify Gue",
         "url": "https://open.spotify.com/user/9l966rv4hy9kj4qhi99w2jrob?si=35cb9954567241ae",
-        "body": "Haha Hihi for the Day",
+        "body": "Haha hihi a day in my life",
+        "tag": [
+          "SPOTIFY",
+          "FEATURED"
+        ],
+        "published_date": "2032-06-25"
+      },
+      {
+        "title": "Playlist Spotify RISTEK",
+        "url": "https://open.spotify.com/playlist/3EDg9ETshDwNO1WCULQjTV?si=85ae2e5f8b8645b6",
+        "body": "Chill with RISTEK",
         "tag": [
           "SPOTIFY",
           "FEATURED"
@@ -97,7 +107,7 @@
         "link": "https://technology-euphoria.com",
         "body": "Kegiatan perlombaan dan seminar bidang IT tingkat Nasional",
         "tag": [
-          "PUBLISHED",
+          "ENDED",
           "PROJECT",
           "TECHPO"
         ],
