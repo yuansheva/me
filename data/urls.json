@@ -1,0 +1,108 @@
+{
+  "support": {
+    "title": "Support",
+    "urls": [
+      {
+        "title": "Traktir beli kopi",
+        "url": "https://saweria.co/yuansheva",
+        "body": "Makasih udah support!",
+        "tag": [
+          "SUPPORT",
+          "TRAKTIR"
+        ]
+      }
+    ]
+  },
+  "featured": {
+    "title": "Featured",
+    "urls": [
+      {
+        "title": "SPOTIFY",
+        "url": "https://open.spotify.com/user/9l966rv4hy9kj4qhi99w2jrob?si=35cb9954567241ae",
+        "body": "Haha Hihi for the Day",
+        "tag": [
+          "SPOTIFY",
+          "FEATURED"
+        ],
+        "published_date": "2032-06-25"
+      }
+    ]
+  },
+  "project": {
+    "title": "Project",
+    "urls": [
+      {
+        "image": "https://user-images.githubusercontent.com/70207812/178094926-b6c3046d-446b-4d34-a696-f0686efcdc7a.png",
+        "title": "Website BEM KM Fasilkom UNSRI",
+        "link": "https://bemilkomunsri.org",
+        "body": "Wadah mahasiswa untuk menyampaikan aspirasi maupun pelaporan seputar Fasilkom UNSRI",
+        "tag": [
+          "COMING SOON",
+          "PROJECT",
+          "BEM"
+        ],
+        "published_date": "2032-04-22"
+      },
+      {
+        "image": "https://user-images.githubusercontent.com/70207812/178094630-d28ec14e-9f74-481b-be0e-f15d169e01ac.png",
+        "title": "Fasilkom Learning Connection",
+        "link": "https://flc.bemilkomunsri.org",
+        "body": "Fasilkom Learning Connection merupakan website seputar akademik yang berisikan materi, soal-soal dan lain-lain yang dihimpun dari seluruh jurusan yang ada di fasilkom UNSRI. ",
+        "tag": [
+          "COMING SOON",
+          "PROJECT",
+          "BEM"
+        ],
+        "published_date": "2032-04-22"
+      },
+      {
+        "image": "https://user-images.githubusercontent.com/70207812/178094523-e02695ad-2c4c-4e3c-ac4f-f1e34ff62d70.svg",
+        "title": "Shortlink BEM KM Fasilkom UNSRI",
+        "link": "https://bemilkomunsri.org/link",
+        "body": "The easiest customizable url shortener, ever.",
+        "tag": [
+          "PRIVATE",
+          "PROJECT",
+          "BEM"
+        ],
+        "published_date": "2032-07-09"
+      },
+      {
+        "image": "https://user-images.githubusercontent.com/70207812/178094721-a9f20109-305b-4ac5-a017-70067b34f73f.png",
+        "title": "Gerakan Aspirasi Online",
+        "link": "https://gaspol.bemilkomunsri.org",
+        "body": "Wadah mahasiswa untuk menyampaikan aspirasi maupun pelaporan seputar Fasilkom UNSRI",
+        "tag": [
+          "PUBLISHED",
+          "PROJECT",
+          "BEM"
+        ],
+        "published_date": "2032-04-22"
+      },
+      {
+        "image": "https://user-images.githubusercontent.com/70207812/178095489-79a8884c-bafb-4076-ad35-0b858e29543d.png",
+        "title": "Website IMA SRIWIJAYA",
+        "link": "https://imasriwijaya.com",
+        "body": "Website untuk menampung informasi tentang Ikatan Mahasiswa Arsitek Sriwijaya",
+        "tag": [
+          "PUBLISHED",
+          "PROJECT",
+          "IMA"
+        ],
+        "published_date": "2032-04-22"
+      },
+      {
+        "image": "https://user-images.githubusercontent.com/70207812/178095105-799b9dea-2ea7-46e0-8164-6cb0c368eac0.png",
+        "title": "Technology Euphoria 2021",
+        "link": "https://technology-euphoria.com",
+        "body": "Kegiatan perlombaan dan seminar bidang IT tingkat Nasional",
+        "tag": [
+          "PUBLISHED",
+          "PROJECT",
+          "TECHPO"
+        ],
+        "published_date": "2032-04-22"
+      }
+    ]
+  }
+}
