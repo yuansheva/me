@@ -99,20 +99,29 @@ body {
 
 /* Typography
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
-h1 {
+h1.first-name {
+  margin-top: 10;
+  margin-bottom: 10px;
+  font-weight: 800;
+}
+h1.middle-name {
   margin-top: 0;
-  margin-bottom: 16px;
+  margin-bottom: 18px;
   font-weight: 800;
 }
 h1 {
   font-size: 24px;
-  line-height: 64px;
+  /* line-height: 64px; */
   letter-spacing: 0;
 }
 
 /* Larger than phablet */
 @media (min-width: 550px) {
-  h1 {
+  h1.first-name {
+    font-size: 48px;
+    /* line-height: 96px; */
+  }
+  h1.middle-name {
     font-size: 48px;
     line-height: 96px;
   }
